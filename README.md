@@ -19,4 +19,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![QR code component screenshot](./src/assets/images/qr-component-sscreenshot.jpg)
+![QR code component screenshot](./src/assets/images/qr-component-screenshot.png)
