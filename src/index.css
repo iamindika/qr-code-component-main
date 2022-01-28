@@ -10,8 +10,56 @@ font-family: 'Outfit', sans-serif; (400, 700)
   box-sizing: border-box;
 }
 
+.qr-desc {
+  text-align: center;
+}
+
+.qr-desc__title {
+  color: hsl(218, 44%, 22%);
+  font-size: 1.375rem;
+  font-weight: 700;
+}
+
+.qr-desc__text {
+  color: #7D889E;
+}
+
 body {
   margin: 0;
   background-color: hsl(212, 45%, 89%);
   font: 400 0.9375rem "Outfit", sans-serif;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 3%;
+}
+
+#root {
+  padding: 2em 0;
+}
+
+.container {
+  width:  320px;
+  margin: 0 auto;
+  border: 1px solid hsl(212, 45%, 89%);
+  border-radius: 5%;
+  padding: 1rem;
+  background-color: hsl(0, 0%, 100%);
+}
+
+.hero {
+  width: 288px;
+}
+
+.qr-desc {
+  margin: 1.5rem 0;
+}
+
+.qr-desc__title {
+  margin: 0;
+}
+
+.qr-desc__text {
+  margin: 1rem;
 }
