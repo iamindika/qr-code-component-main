@@ -7,7 +7,7 @@ export default function QRCode() {
         <img
           src={qRCode}
           alt="qr code"
-        />s
+        />
       </div>
     </header>
   )
